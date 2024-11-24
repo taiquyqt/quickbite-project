@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648523284536",
+    "project_id": "fvff-51737",
+    "storage_bucket": "fvff-51737.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648523284536:android:01ddcaf3c73219c5e7e6cd",
+        "android_client_info": {
+          "package_name": "com.example.quickbite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfhMS2fjbw5xDyE1mXSuknUepByP7U0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
